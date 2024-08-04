@@ -1,0 +1,15 @@
+{
+  "name": "backened",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "start": ""
+  },
+  "author": "node server.js",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
